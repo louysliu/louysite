@@ -1,4 +1,0 @@
-baseURL = 'https://louysite.pages.dev/'
-languageCode = 'zh-cn'
-title = 'Louis Liu'
-theme = 'hugo-theme-stack'

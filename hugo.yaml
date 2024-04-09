@@ -1,0 +1,4 @@
+baseURL: https://louysite.pages.dev/
+languageCode: zh-cn
+title: Louis's Blog
+theme: ["PaperMod"]
