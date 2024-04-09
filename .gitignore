@@ -14,3 +14,9 @@ hugo.linux
 
 # obsidian files
 .obsidian/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
